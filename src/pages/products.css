@@ -1,0 +1,22 @@
+.products{
+
+   
+    width: 300px;
+    height: 100px;
+    margin-top: 100px;
+    margin-left: 100px ;
+}
+
+
+.buttonfin{
+    
+}
+
+.taches{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-left: 1000px;
+    width: 300px;
+    height: 100px;
+}
